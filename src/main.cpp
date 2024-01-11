@@ -24,7 +24,7 @@
 
 int main() {
 
-    Window window(800, 600, "Raymarching", 4, 6, GLFW_OPENGL_CORE_PROFILE);
+    Window window(800, 600, "Raymarching", 3, 3, GLFW_OPENGL_CORE_PROFILE);
     window.setFrameBufferCallback(framebuffer_size_callback);
     RayMarchingFrame simple("../shaders/simple.vs", "../shaders/simple.fs");
 
