@@ -2,9 +2,9 @@
 ## About
 This is a ray marching based game engine I am building to learn how to build game engines and OpenGL programs.
 ## Build instructions
-Dependencies
+Fedora Dependencies
 ```
-Need to test this
+glfw-devel
 ```
 Build Instructions
 ```
