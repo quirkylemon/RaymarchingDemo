@@ -1,3 +1,3 @@
-Functions that return a bool start with "Is"\
-Functions that return any other data type start "Get"\
-Functions that set any data type start with "Set"
+Functions that return a bool starts with "is" or "should"\
+Functions that return any other data type starts with "get"\
+Functions that set any data type starts with "set"
